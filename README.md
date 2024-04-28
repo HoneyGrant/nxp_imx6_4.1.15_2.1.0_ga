@@ -1,4 +1,4 @@
-![image](https://github.com/HoneyGrant/nxp_imx6_4.1.15_2.1.0_ga/assets/57760745/39e469dc-3630-4d15-bc38-1f5911ea98f3)正点原子 I.MX6ULL EMMC 版核心板板载资源如下：  
+正点原子 I.MX6ULL EMMC 版核心板板载资源如下：  
 
 ◆ CPU： MCIMX6Y2CVM08AB（工业级）， 800MHz(实际 792MHz)， BGA289  
 ◆ 外扩 DDR3L： NT5CC256M16EP-EK， 512MB 字节，商业级。  
@@ -31,12 +31,5 @@
 ◆ 1 个电源开关，控制整个板的电源  
 ◆ 1 个 SDIO WIFI 接口  
 ◆ 1 个启动模式选择配置接口  
-◆ 1 个 RTC 后备电池座，并带电池
-
-
-◆ 1 个复位按钮，可用于复位 MPU 和 LCD
-◆ 1 个 ON/OFF 按钮。
-◆ 1 个功能按钮
-◆ 1 个电源开关，控制整个板的电源
-◆ 1 个 SDIO WIFI 接口
+◆ 1 个 RTC 后备电池座，并带电池    
 
