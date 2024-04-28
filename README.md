@@ -1,12 +1,11 @@
 正点原子 I.MX6ULL EMMC 版核心板板载资源如下：
-![Uploading image.png…]()
-◆ CPU： MCIMX6Y2CVM08AB（工业级）， 800MHz(实际 792MHz)， BGA289
-◆ 外扩 DDR3L： NT5CC256M16EP-EK， 512MB 字节，商业级。
-◆ EMMC： KLM8G1GET，这是一个 8GB 的 EMMC 芯片。
-◆ 两个 2*30 的防反插 BTB 座，共引出 120 PIN
+
+# ◆ CPU： MCIMX6Y2CVM08AB（工业级）， 800MHz(实际 792MHz)， BGA289
+# ◆ 外扩 DDR3L： NT5CC256M16EP-EK， 512MB 字节，商业级。
+# ◆ EMMC： KLM8G1GET，这是一个 8GB 的 EMMC 芯片。
+# ◆ 两个 2*30 的防反插 BTB 座，共引出 120 PIN
 
 正点原子 I.MX6U-Mini 开发板底板板载资源如下：
-![image](https://github.com/HoneyGrant/nxp_imx6_4.1.15_2.1.0_ga/assets/57760745/ecb4864a-dee7-4e39-a140-54fd8ae0207a)
 
 ◆ 1 个核心板接口，支持 I.MX6ULL 核心板。
 ◆ 1 个电源指示灯（蓝色）。
